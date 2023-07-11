@@ -1,2 +1,2 @@
 # bookbot
-boot.dev project
+First git project. Using boot.dev
